@@ -1,4 +1,4 @@
-# teste_app.py
+# test_script.py
 
 import unittest
 from script import soma

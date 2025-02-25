@@ -1,4 +1,4 @@
-# app.py
+# script.py
 
 def soma(a, b):
     return a + b
